@@ -1,0 +1,40 @@
+blockquote
+{
+	width: 900px;
+	margin: auto;
+}
+blockquote.application
+{
+	background-repeat: repeat, no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: auto, cover;
+    -moz-background-size: auto, cover;
+    -o-background-size: auto, cover;
+	width: 900px;
+	margin: auto;
+	background-color: rgba(240, 240, 240, 0.3);
+}
+blockquote.corps
+{
+	background-color: transparent;
+    background-repeat: repeat, no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: auto, cover;
+    -moz-background-size: auto, cover;
+    -o-background-size: auto, cover;
+	width: 900px;
+	margin: auto;
+	background-color: rgba(70, 63, 50, 0.5);
+}
+h1
+{
+    font-size: 2em;
+	color: white;
+}
+p
+{
+	font-size : 20px;
+	font-weight: bold;
+}

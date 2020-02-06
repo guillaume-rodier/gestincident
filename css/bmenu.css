@@ -1,0 +1,35 @@
+.bmenu li{
+    font-size: 30px;
+    display: inline-block;
+	margin:10px;
+	text-align:center;
+}
+.bmenu li a{
+	color: transparent;
+	text-transform: uppercase;
+	text-shadow: 0px 0px 5px black;
+	letter-spacing: 1px;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	text-align:center;
+}
+.bmenu:hover li a{
+	text-shadow: 0px 0px 5px black;
+	text-align:center;
+}
+.bmenu li a:hover{
+	color: darkred;
+	text-shadow: 0px 0px 1px black;
+	padding-left: 10px;
+	text-align:center;
+}
+.bmenu li{
+    font-size: 30px;
+    display: inline-block;
+	margin:10px;
+	text-align:center;
+	color:blue;
+}

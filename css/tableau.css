@@ -1,0 +1,18 @@
+.tableau 
+{
+/*position du tableau*/
+position : center;
+/* couleur de fond du tableau*/
+font-size : 12px; 
+font-family : Verdana, arial, helvetica, sans-serif; 
+color : #333333; 
+text-align : center; 
+background-color : #FAF7B1;
+/* style des bordures du tableau*/
+border-width : 2px ;
+border-style : outset ;
+border-color : black ;
+border-radius: 10px ;
+width : 75% ;
+
+}
